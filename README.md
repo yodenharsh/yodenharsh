@@ -61,7 +61,7 @@
 </p>
   
   <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yodenharsh&theme=highcontrastt&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yodenharsh&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
 
   
