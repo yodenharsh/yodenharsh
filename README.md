@@ -59,3 +59,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="android-studio" width="40" height = "40"/>
   </a>
 </p>
+  
+  <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yodenharsh&theme=highcontrastt&show_icons=true&include_all_commits=true" />
+</p>
+
+  
+  ------
+  
+  [yodenharsh](https://github.com/yodenharsh)
