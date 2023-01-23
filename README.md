@@ -7,7 +7,7 @@
 
 - 🚩 I would like to learn **Flutter for app development**
 
-- ⚡ What I like to do: **Listening to music, Playing Rhythm games ...and coding of course**
+- ⚡ What I like to do: **Listening to music, rhythm games ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
