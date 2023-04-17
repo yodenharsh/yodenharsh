@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Java Spring Course**
 
-- 🌱 I’m currently learning **Java Spring and Spring Boot**
+- 🌱 I’m currently learning **Rust**
 
 - 🚩 I would like to learn **Flutter for app development**
 
