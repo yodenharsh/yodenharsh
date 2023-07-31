@@ -35,6 +35,9 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="40" height="40"/> 
   </a>
+    <a href="https://react.dev/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
+  </a>
   <a href="https://spring.io/projects/spring-framework" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
   </a>
