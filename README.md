@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **ML and Cryptography Project**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust for Full-stack Development**
 
 - 🚩 I would like to learn **Flutter for app development**
 
