@@ -62,11 +62,6 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height = "40"/>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="android-studio" width="40" height = "40"/>
-  </a>
 </p>
   
   <p align= "center">
