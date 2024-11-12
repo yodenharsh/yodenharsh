@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Morayya AKA yodenharsh</h1>
 <h3 align="center">A CSE student who aspires to be a full-stack developer</h3>
 
-- 🔭 I’m currently working on my **ML and Cryptography Project**
+- 🔭 I’m currently working on my **Revamped Website for Woxsen League**
 
-- 🌱 I’m currently learning **Rust for Full-stack Development**
+- 🌱 I’m currently learning **Advanced Containerization**
 
-- 🚩 I would like to learn **Flutter for app development**
+- 🚩 I would like to learn **Rust for Software Development**
 
-- ⚡ What I like to do: **Listening to music, rhythm games ...and coding of course**
+- ⚡ What I like to do: **Listening to music, building PCs, rhythm games ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -20,12 +20,6 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -38,6 +32,10 @@
     <a href="https://react.dev/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
   </a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40" />
+          
   <a href="https://spring.io/projects/spring-framework" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> 
   </a>
@@ -51,16 +49,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" alt="Rust" width="40" height = "40"/>
   </a>
     <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostGreSQL" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
   
