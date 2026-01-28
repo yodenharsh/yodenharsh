@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Morayya AKA yodenharsh</h1>
-<h3 align="center">A CSE student who aspires to be a full-stack developer</h3>
+<h3 align="center">Software engineer</h3>
 
 - 🌱 I’m currently learning **Advanced Containerization**
 
